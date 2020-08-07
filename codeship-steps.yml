@@ -1,5 +1,5 @@
 - type: parallel
   service: app
   steps:
-  - command: echo one
-  - command: echo two
+  - command: sleep 5
+  - command: sleep 5
